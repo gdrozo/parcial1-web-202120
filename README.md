@@ -18,4 +18,4 @@
 
 ## Documentación endpoint
 
-Agregue aquí al documentación del endpoint elaborado.
+El entpoint es un GET con url 'api/:height' donde :height es el parametro de la altura. El empoint debuelve la lista completa de jugadores porque hacer un loop doble toma mucho tiempo y no supe como hacerlo de otra manera. :(
